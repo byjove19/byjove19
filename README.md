@@ -1,4 +1,4 @@
-Hello and welcome to my GitHub repository, ByJove! 
+Hello and welcome to my GitHub, ByJove! 
 I am a female cybersecurity analyst student and this repository is a collection of my write-ups on various topics related to cybersecurity.
 
 In this repository, you will find a curated collection of simple, fun, and well-broken-down write-ups on various topics ranging from CVE, vulnHub, CTFs, Hack the box walkthroughs, real-life encounters, and everything in between. 
