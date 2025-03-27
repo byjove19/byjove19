@@ -23,4 +23,5 @@ PRs are welcome—especially if they come with memes.
 💼 **LinkedIn**: [Connect With Me](https://www.linkedin.com/in/odionyejovita/)  
 🛠️ **Youtube** : [@CipherGhostss](https://www.youtube.com/@CipherGhostss)
 
+Security isn’t a feature – it’s the foundation
 Thanks for stopping by—happy hacking! 🚀  
