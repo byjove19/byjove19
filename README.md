@@ -18,9 +18,9 @@ Hey there! I’m ByJove—**backend developer & cybersecurity enthusiast** on a 
 PRs are welcome—especially if they come with memes.  
 
 ## 🔗 Stay Connected  
-🌐 **Website** : [@ByJove Tech](https://byjovetech.netlify.app/)
+🌐 **Website** : [@ByJove Tech](https://byjovetech.netlify.app/).
 🐦 **X (Twitter)**: [@Defi_BabyJho](https://x.com/Defi_BabyJho)  
-💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/odionyejovita/)  
+💼 **LinkedIn**: [Connect With Me](https://www.linkedin.com/in/odionyejovita/)  
 🛠️ **Youtube** : [@CipherGhostss](https://www.youtube.com/@CipherGhostss)
 
 Thanks for stopping by—happy hacking! 🚀  
