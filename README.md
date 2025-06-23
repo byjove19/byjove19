@@ -57,8 +57,15 @@ Found a bug? Great! That means you're paying attention.
 
 🌐 **Website** : [@ByJove Tech](https://byjovetech.netlify.app/)  
 🐦 **X (Twitter)**: [@Defi_BabyJho](https://x.com/Defi_BabyJho)  
-💼 **LinkedIn**: [Odionye Jovita](https://www.linkedin.com/in/odionyejovita/)  
+💼 **LinkedIn**: [Odionye Jovita](https://www.linkedin.com/in/odionye-jovita-042b73290/)  
 🛠️ **YouTube**: [@CipherGhostss](https://www.youtube.com/@CipherGhostss)
+
+## 🔥 GitHub Stats
+
+![ByJove's GitHub stats](https://github-readme-stats.vercel.app/api?username=byjove&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byjove&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=byjove&theme=radical)
+
 
 > _“Security isn’t a feature – it’s the foundation.”_  
 Thanks for dropping by—now go patch something. 🚀
