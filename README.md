@@ -49,9 +49,12 @@
 
 ## 📁 Featured Projects
 
-- 🎬 [StreamHive](https://github.com/byjove/streamhive) – A sleek movie streaming platform (Node.js + MongoDB + Render)
-- 🧠 [CipherGhostss Blog](https://cipherghostss.netlify.app/) – True cybercrime stories with suspense and flair
-- 🔐 [SecureDiary](https://github.com/byjove/secure-diary) – A private journal secured with JWT authentication
+- 🎬 [StreamHive](https://github.com/byjove/streamhive) – A sleek movie streaming platform (Node.js + MongoDB + Render)  
+- 🧠 [CipherGhostss Blog](https://cipherghostss.netlify.app/) – True cybercrime stories with suspense and flair  
+- 🧾 [Auditree](https://auditree.onrender.com/) – A SaaS platform for external auditors to track client finances and performance (EJS + MongoDB)  
+- 🪷 [Sage and Silk](https://sageandsilk.onrender.com/) – A serene lifestyle and fashion site (EJS + Render)  
+- 📩 [Submissio](https://submissio.onrender.com/) – A smart API-based contact form builder for any website (Node.js + Express)
+
   
 ---
 
